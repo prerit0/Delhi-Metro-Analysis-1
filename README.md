@@ -85,12 +85,6 @@ Aspiring Data Scientist | Python • SQL • Data Analytics
 
 ---
 
-## 📜 License
-
-This project is shared for **educational and portfolio purposes**.
-
----
-
 ## ⭐ Acknowledgements
 
 - Dataset inspired by Delhi Metro travel patterns
