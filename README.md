@@ -9,7 +9,6 @@ The project includes **data cleaning, exploratory data analysis (EDA), visualiza
 
 - 🌐 **Streamlit App:** *https://delhi-metro-analysis-1-epfxkepvtifp8lgdbnjhu7.streamlit.app/*
 - 📘 **Kaggle Notebook:** *https://www.kaggle.com/code/preritmasih/delhi-metro-project*
-- 📂 **GitHub Repository:** *https://github.com/prerit0/Delhi-Metro-Analysis-1*
 
 ---
 
@@ -60,31 +59,6 @@ Delhi-Metro-Analysis-1/
 ├── requirements.txt                # Project dependencies
 └── README.md
 ```
-
----
-
-## 🚀 How to Run Locally
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/prerit0/Delhi-Metro-Analysis-1.git
-cd Delhi-Metro-Analysis-1
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Streamlit app
-
-```bash
-streamlit run streamlit_app.py
-```
-
----
 
 ## 📈 Insights Summary
 
