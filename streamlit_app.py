@@ -1,4 +1,7 @@
 import streamlit as st
+import pandas as pd
+st.title("Data Load Test")
 
-st.title("✅ Streamlit Deployment Test")
-st.write("Hello, this is working!")
+df = pd.read_csv("delhi_metro_cleaned_Dataset.csv")
+st.dataframe(df.head())
+
